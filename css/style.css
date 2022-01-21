@@ -1,0 +1,12 @@
+.info{
+    background-color:rosybrown;
+}
+.categories img{
+   width: 100px;
+}
+.b-now{
+    color: white;
+    border-radius: 8px;
+    padding:9px 25px;
+    background-color: hotpink;
+}
